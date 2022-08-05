@@ -5,5 +5,5 @@ Materi yang dipelajari yaitu
 * Algoritma Logic
 * Dasar Pemrograman
 * Git dan GitHub
-* 
+
 menambahkan lagi pengalaman belajar, 56%
